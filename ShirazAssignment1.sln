@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShirazAssignment1", "WindowsFormsApp2\ShirazAssignment1.csproj", "{788DE6FB-F526-44DE-B061-D8E3953D680B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788DE6FB-F526-44DE-B061-D8E3953D680B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788DE6FB-F526-44DE-B061-D8E3953D680B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788DE6FB-F526-44DE-B061-D8E3953D680B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788DE6FB-F526-44DE-B061-D8E3953D680B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {373B35CB-E6B9-4E7E-96CC-B2021E964227}
+	EndGlobalSection
+EndGlobal
